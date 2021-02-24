@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yourfestivalhere/static/css/main.c1e9063a.chunk.css",
+    "main.js": "/yourfestivalhere/static/js/main.87839ea2.chunk.js",
+    "main.js.map": "/yourfestivalhere/static/js/main.87839ea2.chunk.js.map",
+    "runtime-main.js": "/yourfestivalhere/static/js/runtime-main.11884ddf.js",
+    "runtime-main.js.map": "/yourfestivalhere/static/js/runtime-main.11884ddf.js.map",
+    "static/js/2.2e281bfb.chunk.js": "/yourfestivalhere/static/js/2.2e281bfb.chunk.js",
+    "static/js/2.2e281bfb.chunk.js.map": "/yourfestivalhere/static/js/2.2e281bfb.chunk.js.map",
+    "static/js/3.a7e3e3c5.chunk.js": "/yourfestivalhere/static/js/3.a7e3e3c5.chunk.js",
+    "static/js/3.a7e3e3c5.chunk.js.map": "/yourfestivalhere/static/js/3.a7e3e3c5.chunk.js.map",
+    "index.html": "/yourfestivalhere/index.html",
+    "static/css/main.c1e9063a.chunk.css.map": "/yourfestivalhere/static/css/main.c1e9063a.chunk.css.map",
+    "static/js/2.2e281bfb.chunk.js.LICENSE.txt": "/yourfestivalhere/static/js/2.2e281bfb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/yourfestivalhere/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11884ddf.js",
+    "static/js/2.2e281bfb.chunk.js",
+    "static/css/main.c1e9063a.chunk.css",
+    "static/js/main.87839ea2.chunk.js"
+  ]
+}
